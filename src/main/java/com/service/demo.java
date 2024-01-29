@@ -44,16 +44,6 @@
 						<td><input type="text" id="loginId" name="loginId" class="form-control" required></td>
 					</tr>
 					<tr>
-						<td for="password" class="form-label">パスワード: </td>
-						<td><input type="password" id="password" name="password" class="form-control" required></td>
-					</tr>
-				</table>
-				<div class="submit"><input type="submit" value="ログイン" class="btn btn-warning btn-sm "></div>
-			</form>
-		</div>
-	</div>
-	<script src="js/jquery-3.6.1.min.js"></script>
-	<script src="dist/css/bootstrap.min.js"></script>
-</body>
+		
 
 </html>
